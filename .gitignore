@@ -1,0 +1,44 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Video/audio downloads
+downloads/
+downloades/
+audio/
+videos/
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.webm
+*.avi
+*.mov
+
+# Generated files
+output/
+outputs/
+temp/
+tmp/
+
+# Models
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
